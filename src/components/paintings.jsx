@@ -1,19 +1,19 @@
 import React, { Component } from 'react'
 
-export default class Projects extends Component {
+export default class Paintings extends Component {
   render() {
     return (
       <div>
-				<section className="colorlib-work" data-section="projects">
+				<section className="colorlib-work" data-section="paintings">
 					<div className="colorlib-narrow-content">
 						<div className="row">
 							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 								<span className="heading-meta">My Work</span>
-								<h2 className="colorlib-heading animate-box">Recent Projects</h2>
+								<h2 className="colorlib-heading animate-box">Recent Paintings</h2>
 							</div>
 						</div>
 						<div className="row">
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<div className="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
 									<div className="desc">
 										<div className="con">
@@ -28,7 +28,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<div className="col-md-3 animate-box" data-animate-effect="fadeInRight">
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
@@ -43,7 +43,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+							<div className="col-md-3 animate-box" data-animate-effect="fadeInTop">
 								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
 									<div className="desc">
 										<div className="con">
@@ -58,7 +58,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+							<div className="col-md-3 animate-box" data-animate-effect="fadeInBottom">
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
@@ -73,7 +73,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<div className="col-md-2 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
@@ -88,7 +88,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<div className="col-md-2 animate-box" data-animate-effect="fadeInRight">
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">

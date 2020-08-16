@@ -3,7 +3,10 @@ import './App.css';
 import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
 import About from './components/about'
+import Paintings from './components/paintings'
+import Blog from './components/blog'
 import Timeline from './components/timeline'
+import Contact from './components/contact'
 
 class App extends Component {
   render() {
@@ -14,9 +17,12 @@ class App extends Component {
 				<div id="colorlib-main">
 					<Introduction></Introduction>
 					<About></About>
+          <Paintings></Paintings>
+          <Blog></Blog>
 					<Timeline></Timeline>
-          	</div>
-      	</div>
+          <Contact></Contact>
+        </div>
+        </div>
       </div>
     );
   }
