@@ -23,6 +23,16 @@ export default class Blog extends Component {
 						</div>
 					</div>
 					</div>
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+					<div className="blog-entry">
+						<a href="blog.html" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<div className="desc">
+							<span><small>August 24, 2020 </small> | <small> The Driving Lesson </small> | <small> <i className="icon-bubble3" /> 4</small></span>
+							<h3><a href="https://docs.google.com/document/d/1_3F6p45s_UyvD-wRTvVAWFuW2LNWE7iohRT8nyijEAQ/view">The Driving Lesson</a></h3>
+							<p>"Aditi, keep it slow when there is a turn on the left or right."</p>
+						</div>
+					</div>
+					</div>
 					{/* <div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 					<div className="blog-entry">
 						<a href="blog.html" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
