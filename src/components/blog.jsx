@@ -38,31 +38,11 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/blog-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>September 7, 2020 </small> | <small> Rich don't work for money</small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="https://docs.google.com/document/d/1ws2Cuu6llfCXvniY7SiKiycz-Y_FPWfOmBNDe64__6o/view">Setting up my first website</a></h3>
-							<p>First chapter's summary from Rich Dad Poor Dad”.</p>
+							<h3><a href="https://docs.google.com/document/d/1ws2Cuu6llfCXvniY7SiKiycz-Y_FPWfOmBNDe64__6o/view">Notes from Rich Dad Poor Dad</a></h3>
+							<p>"Money is one form of power. But what is more powerful is financial education. ”.</p>
 						</div>
 					</div>
 					</div>
-					{/* <div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
-					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
-						<div className="desc">
-							<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Wordpress for a Beginner</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						</div>
-					</div>
-					</div>
-					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
-						<div className="desc">
-							<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Make website from scratch</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						</div>
-					</div> */}
-					{/* </div> */}
 				</div>
 				<div className="row">
 					<div className="col-md-12 animate-box">
