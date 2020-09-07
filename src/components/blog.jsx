@@ -32,8 +32,10 @@ export default class Blog extends Component {
 							<p>"Aditi, keep it slow when there is a turn on the left or right."</p>
 						</div>
 					</div>
+					</div>
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<a href="blog.html" className="blog-img"><img src="images/blog-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>September 7, 2020 </small> | <small> Rich don't work for money</small> | <small> <i className="icon-bubble3" /> 4</small></span>
 							<h3><a href="https://docs.google.com/document/d/1ws2Cuu6llfCXvniY7SiKiycz-Y_FPWfOmBNDe64__6o/view">Setting up my first website</a></h3>
